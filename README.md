@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NodeJS
 - ⛰️ Love for mountains
 - 🤘 Love for Heavy metal
-- ⚽ EMELEC fan
+- ⚽ Soccer fan
 
 
   
