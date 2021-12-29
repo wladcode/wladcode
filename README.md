@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **chamoW/chamoW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,11 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+### chamoW Profile 👋
+
+- 🔭 I’m currently working on personal projects using React and REST services
+- 🌱 I’m currently learning NodeJS
+- ⛰️ Love for mountains
+- 🤘 Love for Heavy metal
+- ⚽ EMELEC fan
+
+<div align="center">
+  <a href="https://github.com/chamoW">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamoW&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamoW&layout=compact&langs_count=7&theme=dracula"/>
+</div>
