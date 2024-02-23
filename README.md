@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 ### chamoW Profile 👋
 
-- 🔭 I’m currently working on personal projects using React and REST services
+I am a software engineer with 10 years of experience.
+
+- 🔭 I’m currently working on personal projects using React for front-end, Spring boot for backend, and Docker containerization.
 - 🌱 I’m currently learning NodeJS
 - ⛰️ Love for mountains
 - 🤘 Love for Heavy metal
