@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### wladcode Profile 👋
+### WladCode Profile 👋
 
 I am a software engineer with 10 years of experience.
 
