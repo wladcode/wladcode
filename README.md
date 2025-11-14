@@ -39,7 +39,7 @@ I am a software engineer with 10 years of experience.
 
 <div align="center">
   <a href="https://github.com/wladcode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladcode&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladcode&layout=compact&langs_count=7&theme=dracula&hide=python"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wladcode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
